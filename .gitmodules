@@ -1,3 +1,18 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:SGdevWeb/api-gateway.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:SGdevWeb/user-service.git
+[submodule "project-service"]
+	path = project-service
+	url = git@github.com:SGdevWeb/project-service.git
+[submodule "media-service"]
+	path = media-service
+	url = git@github.com:SGdevWeb/media-service.git
+[submodule "like-service"]
+	path = like-service
+	url = git@github.com:SGdevWeb/like-service.git
+[submodule "front-end"]
+	path = front-end
+	url = git@github.com:SGdevWeb/front-end.git
